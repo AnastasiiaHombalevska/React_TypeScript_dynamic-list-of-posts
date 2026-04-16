@@ -1,10 +1,10 @@
-#Dynamic_list of posts with React/TypeScript
+# Dynamic list of posts with React/TypeScript
 
 This is a React + TypeScript app for viewing users, posts, and comments.
 
 [DEMO LINK]()
 
-#Main_functionality:
+# Main functionality:
 - Select a user from a dropdown and load their posts.
 - View posts in a table with loading and error states.
 - Open a post in a sidebar to see details and comments.
