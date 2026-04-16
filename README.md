@@ -2,7 +2,7 @@
 
 This is a React + TypeScript app for viewing users, posts, and comments.
 
-[DEMO LINK]()
+[DEMO LINK](https://anastasiiahombalevska.github.io/React_TypeScript_dynamic-list-of-posts/)
 
 # Main functionality:
 - Select a user from a dropdown and load their posts.
